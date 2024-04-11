@@ -74,4 +74,4 @@ By following these straightforward steps, you've successfully configured your po
 
 -----
 
-# [Next: osTicket - Ticket Lifecycle (https://github.com/katieb11/ticket-lifecycle)
+# [Next: osTicket - Ticket Lifecycle Examples](https://github.com/katieb11/ticket-lifecycle)
